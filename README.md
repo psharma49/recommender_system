@@ -1,1 +1,2 @@
 # Movie Recommender System 
+Using content based filtering. Used a subset of Movie Lens data set to find out what movie the system would recommend if someone has seen a movie by using correlation method based on the user rating. The data set has four features user_id, item_id, ratings and timestamp. We tried to find what movies the system will recommend next if we the user has watched Toy Story and Contact.

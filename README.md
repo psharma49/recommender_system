@@ -1,1 +1,1 @@
-# recommender_system
+# Movie recommender system using content based filtering. Used a subset of Movie lens data set to find out what movie the system would recommend if someone has seen a movie by using correlation method based on the user rating.
